@@ -26,8 +26,6 @@
 
 🔬 Published IEEE research during my undergraduate studies
 
-🌱 Currently learning advanced deep learning architectures and LLMs
-
 📫 Email: ramyasreenagarajan@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/ramya-sree-nagarajan-619245345
@@ -118,7 +116,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 Leadership Experience
 
 <details>
 <summary><b>🎓 Placement Coordinator — Kongu Engineering College, Erode, India &nbsp;|&nbsp; 2022 – 2024</b></summary>
@@ -167,7 +165,7 @@
 | 🥈 | **2nd Prize — Young Indians National-Level Competition** | "Artificial Coal Using Agricultural Waste and Pyrolysis Oil" — National Competition Award |
 | 📄 | **IEEE Xplore Publication** | Peer-reviewed research published at undergraduate level — rare for non-postgraduate researchers · DOI: 10.1109/10531377 |
 | 🎨 | **Graphic Design Certification** | Completed specialized Adobe Creative Suite training (Illustrator + Photoshop) at Kongu Engineering College, 2022 |
-| 🌐 | **Multilingual Communicator** | Fluent: English, Tamil · Intermediate (Certified): Hindi, Korean · Currently Learning: Mandarin, Thai |
+| 🌐 | **Multilingual Communicator** | Fluent: English, Tamil · Intermediate: Hindi (Certified), Korean · Currently Learning: Mandarin, Thai |
 
 </div>
 
@@ -177,24 +175,12 @@
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| **MSc Artificial Intelligence** | Royal Holloway, University of London 🇬🇧 | 2024 – 2025 | — |
-| **BSc Computer Systems & Design** | Kongu Engineering College, India 🇮🇳 | 2021 – 2024 | — |
+| Degree | Institution | Year |
+|:-------|:------------|:----:|
+| **MSc Artificial Intelligence** | Royal Holloway, University of London 🇬🇧 | 2024 – 2025 |
+| **BSc Computer Systems & Design** | Kongu Engineering College, India 🇮🇳 | 2021 – 2024 |
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🧱 PyTorch          → Advanced model architectures & custom training loops
-🔤 Mandarin (中文)  → Conversational fluency & HSK preparation
-🇹🇭 Thai            → Reading, writing & basic conversation
-🤖 Reinforcement Learning → Policy gradient methods & real-world RL applications
-🔬 Computer Vision  → Object detection, segmentation & vision transformers
-```
 
 ---
 
