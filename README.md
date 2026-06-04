@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramya%20Sree%20Nagarajan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MSc%20AI%20%7C%20IEEE%20Published%20Researcher%20%7C%20ML%20%26%20Cybersecurity%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
