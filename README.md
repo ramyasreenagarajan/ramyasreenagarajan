@@ -18,36 +18,19 @@
 <tr>
 <td valign="top" width="60%">
 
-```python
-class RamyaSree:
-    def __init__(self):
-        self.name     = "Ramya Sree Nagarajan"
-        self.location = "Bangalore, India 🇮🇳"
-        self.degree   = "MSc AI — Royal Holloway, Univ. of London"
-        self.email    = "ramyasreenagarajan@gmail.com"
+# Hi, I'm Ramya Sree Nagarajan 👋
 
-        self.stack = [
-            "Python", "TensorFlow", "Keras",
-            "Scikit-learn", "Java", "JavaScript"
-        ]
+🎓 MSc Artificial Intelligence student at Royal Holloway, University of London
 
-        self.currently_learning = [
-            "PyTorch → advanced architectures",
-            "Mandarin → conversational fluency",
-            "Thai → reading & writing"
-        ]
+💻 Interested in AI, Machine Learning, Data Science, and Software Development
 
-        self.fun_fact = (
-            "IEEE published at undergrad level — "
-            "rare for non-postgrad researchers!"
-        )
+🔬 Published IEEE research during my undergraduate studies
 
-    def motto(self):
-        return "Build things that matter. 🚀"
+🌱 Currently learning advanced deep learning architectures and LLMs
 
-me = RamyaSree()
-print(me.motto())
-```
+📫 Email: ramyasreenagarajan@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/ramya-sree-nagarajan-619245345
 
 </td>
 <td valign="top" width="40%">
