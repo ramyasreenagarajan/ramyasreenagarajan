@@ -1,14 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Ramya%20Sree%20Nagarajan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=MSc%20AI%20%7C%20IEEE%20Published%20Researcher%20%7C%20ML%20%26%20Cybersecurity%20Engineer&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Ramya+Sree+%F0%9F%91%8B%3BMSc+Artificial+Intelligence+%7C+RHUL%3BIEEE+Published+ML+%2B+Cybersecurity+Researcher%3BPython+%7C+TensorFlow+%7C+Scikit-learn+%7C+Keras" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey%2C+I%27m+Ramya+Sree+%F0%9F%91%8B;MSc+Artificial+Intelligence+%7C+RHUL;IEEE+Published+ML+%2B+Cybersecurity+Researcher;Python+%7C+TensorFlow+%7C+Scikit-learn+%7C+Keras" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=ramyasreenagarajan&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-
----
+<img src="https://komarev.com/ghpvc/?username=ramyasreenagarajan&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
 
 ## About Me
 
