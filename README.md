@@ -5,7 +5,6 @@
   </a>
 </div>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ramyasreenagarajan&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
 
 ## About Me
 
