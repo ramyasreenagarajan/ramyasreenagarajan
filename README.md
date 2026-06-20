@@ -10,23 +10,23 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
-# Hi, I'm Ramya Sree Nagarajan 👋
+# Hi, I'm Ramya Sree Nagarajan 
 
-🎓 MSc Artificial Intelligence student at Royal Holloway, University of London
+ MSc Artificial Intelligence student at Royal Holloway, University of London
 
-💻 Interested in AI, Machine Learning, Data Science, and Software Development
+ Interested in AI, Machine Learning, Data Science, and Software Development
 
-🔬 Published IEEE research during my undergraduate studies
+ Published IEEE research during my undergraduate studies
 
-📫 Email: ramyasreenagarajan@gmail.com
+ Email: ramyasreenagarajan@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/ramya-sree-nagarajan-619245345
+ LinkedIn: linkedin.com/in/ramya-sree-nagarajan-619245345
 
 </td>
 <td valign="top" width="40%">
@@ -77,7 +77,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ramyasreenagarajan">
@@ -90,15 +90,7 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramyasreenagarajan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyasreenagarajan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
@@ -106,7 +98,7 @@
 
 ---
 
-## 🏆 Trophy Wall
+## Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ramyasreenagarajan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
@@ -114,10 +106,10 @@
 
 ---
 
-## 💼 Leadership Experience
+## Leadership Experience
 
 <details>
-<summary><b>🎓 Placement Coordinator — Kongu Engineering College, Erode, India &nbsp;|&nbsp; 2022 – 2024</b></summary>
+<summary><b> Placement Coordinator — Kongu Engineering College, Erode, India &nbsp;|&nbsp; 2022 – 2024</b></summary>
 
 > ![Leadership](https://img.shields.io/badge/Leadership-bf91f3?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-70a5fd?style=flat-square) ![Recruitment](https://img.shields.io/badge/Recruitment-38bdae?style=flat-square)
 
@@ -129,7 +121,7 @@
 </details>
 
 <details>
-<summary><b>🎪 Student Event Volunteer — Royal Holloway, University of London, UK &nbsp;|&nbsp; 2024 – 2025</b></summary>
+<summary><b> Student Event Volunteer — Royal Holloway, University of London, UK &nbsp;|&nbsp; 2024 – 2025</b></summary>
 
 > ![Event Planning](https://img.shields.io/badge/Event%20Planning-bf91f3?style=flat-square) ![Collaboration](https://img.shields.io/badge/Collaboration-70a5fd?style=flat-square) ![Student Engagement](https://img.shields.io/badge/Student%20Engagement-38bdae?style=flat-square)
 
@@ -141,35 +133,35 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🛡️ DDoS Detection System for IoT Networks**](https://doi.org/10.1109/10531377) | Python · Scikit-learn · TensorFlow · LSTM | IEEE Published · 50,000+ labelled samples · Benchmarked Random Forest, SVM & LSTM · High accuracy, low false-positive rates |
-| [**🧠 ML Classification Suite**](https://github.com/ramyasreenagarajan) | TensorFlow · Keras · Scikit-learn · NLTK | CNN + Transfer Learning for image classification · NLP pipelines for sentiment analysis · Full experiment documentation in Jupyter |
+| [** DDoS Detection System for IoT Networks**](https://doi.org/10.1109/10531377) | Python · Scikit-learn · TensorFlow · LSTM | IEEE Published · 50,000+ labelled samples · Benchmarked Random Forest, SVM & LSTM · High accuracy, low false-positive rates |
+| [** ML Classification Suite**](https://github.com/ramyasreenagarajan) | TensorFlow · Keras · Scikit-learn · NLTK | CNN + Transfer Learning for image classification · NLP pipelines for sentiment analysis · Full experiment documentation in Jupyter |
 
 </div>
 
 ---
 
-## 🏅 Achievements
+##  Achievements
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🥈 | **2nd Prize — Young Indians National-Level Competition** | "Artificial Coal Using Agricultural Waste and Pyrolysis Oil" — National Competition Award |
-| 📄 | **IEEE Xplore Publication** | Peer-reviewed research published at undergraduate level — rare for non-postgraduate researchers · DOI: 10.1109/10531377 |
-| 🎨 | **Graphic Design Certification** | Completed specialized Adobe Creative Suite training (Illustrator + Photoshop) at Kongu Engineering College, 2022 |
-| 🌐 | **Multilingual Communicator** | Fluent: English, Tamil · Intermediate: Hindi (Certified), Korean · Currently Learning: Mandarin, Thai |
+| Achievement | Details |
+|------------|:--------|
+|  **2nd Prize — Young Indians National-Level Competition** | "Artificial Coal Using Agricultural Waste and Pyrolysis Oil" — National Competition Award |
+|  **IEEE Xplore Publication** | Peer-reviewed research published at undergraduate level — rare for non-postgraduate researchers · DOI: 10.1109/10531377 |
+|  **Graphic Design Certification** | Completed specialized Adobe Creative Suite training (Illustrator + Photoshop) at Kongu Engineering College, 2022 |
+|  **Multilingual Communicator** | Fluent: English, Tamil · Intermediate: Hindi (Certified), Korean · Currently Learning: Mandarin, Thai |
 
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
 <div align="center">
 
@@ -182,7 +174,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -195,7 +187,7 @@
 ---
 
 <div align="center">
-  <i>✨ Open to relocation across India & Abroad · Immediate Joiner ✨</i>
+  <i> Open to relocation across India & Abroad · Immediate Joiner ✨</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
